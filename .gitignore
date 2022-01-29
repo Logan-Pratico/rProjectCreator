@@ -1,3 +1,7 @@
 # Git Script File
 
 gitScript.sh
+
+# R Stuff
+.Rproj.user/
+.Rhistory
